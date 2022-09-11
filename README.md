@@ -10,3 +10,4 @@ During this project I had been trought challengs as seaching online for the righ
 
 
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
