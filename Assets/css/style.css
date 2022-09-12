@@ -109,6 +109,7 @@ header nav ul li a:hover {
     min-width: 20%;
     max-width: 20%;
     font-size: 48px;
+    line-height: 0.6;
 }
 
 .about-me {
@@ -180,7 +181,7 @@ header nav ul li a:hover {
 
 .project3 {
   background-image: url("../images/project\ 3.jpg");
-  background-position: 50% 35%;
+  background-position: 40% 100%;
 }
 
 .project4 {
