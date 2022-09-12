@@ -23,6 +23,6 @@ This challenge consists in creating a professional portfolio using only HTML and
 
 link: https://kikolock.github.io/My-Portifolio/
 
-![My Remote Image]()
+![My Remote Image](https://github.com/Kikolock/My-Portifolio/blob/main/Assets/images/Deployed%20page.PNG)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
