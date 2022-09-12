@@ -1,9 +1,9 @@
 :root {
-  --textcollor: #fff;
+  --textcollor: white;
   --textcollor2: #343434;
-  --backgroundcollor1: gray;
-  --backgroundcollor2: #343434;
-  --backgroundcollor3: #4169e1;
+  --backgroundcollor1: #642fcc;
+  --backgroundcollor2: #472F78;
+  --backgroundcollor3: #41e1d9;
 }
 
 html {
@@ -30,7 +30,7 @@ header {
 }
 
 header div {
-  box-shadow: 4px 4px 5px rgba(243, 223, 223, 0.5);
+  box-shadow: 4px 8px 7px rgba(243, 223, 223, 0.5);
   box-sizing:border-box ;
   width: 200px;
   height: 50px;
@@ -43,7 +43,7 @@ header h1 {
   text-align: center;
   background-color: var(--backgroundcollor2);
   padding: 10px;
-  border: 7px solid var(--backgroundcollor3);
+  border: 6px outset var(--backgroundcollor3);
 }
 
 header a{
